@@ -1,4 +1,4 @@
-# The Future in Tech Test
+# The Future in Tech Testing
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
 
